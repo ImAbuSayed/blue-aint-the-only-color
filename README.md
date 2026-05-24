@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I know you brought that midnight memory with you
+> But leave those teardrops right beside the door
+> There is a fire burning deeper in my view
+> We're gonna paint this canvas like we never did before
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
