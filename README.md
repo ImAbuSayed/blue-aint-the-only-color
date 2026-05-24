@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/blue-aint-the-only-color/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Blue Ain’t the Only Color](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/blue-aint-the-only-color/) |
+| **Get License** | [License this song: Blue Ain’t the Only Color](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/blue-aint-the-only-color/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `650d809e3aac974d7f84d402d632b23f661d1b3e9197eefa2c514d1a0bcf4f83` |
 | **Timestamp** | May 25, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

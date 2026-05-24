@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Blue Ain’t the Only Color
+
+This log tracks the cryptographic history and versioning for the song **Blue Ain’t the Only Color** (blue-aint-the-only-color).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-25T02:13:12.817018 | `v1` | `650d809e3aac974d7f84d402d632b23f661d1b3e9197eefa2c514d1a0bcf4f83` | `69c9bb17e9bb768c3588f0cdcede823812008b0b43fe6126f907f4942226b1db` | `2026-05-25_blue-aint-the-only-color-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
